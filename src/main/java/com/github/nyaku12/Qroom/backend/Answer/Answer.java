@@ -2,7 +2,6 @@ package com.github.nyaku12.Qroom.backend.Answer;
 
 
 import jakarta.persistence.*;
-
 @Entity
 @Table(name="answers")
 public class Answer {
